@@ -30,6 +30,7 @@
 #include "Enforce.h"
 
 #include <VG/vgu.h>
+#include <bcm_host.h>
 #include <cassert>
 
 class BoxRenderer {
